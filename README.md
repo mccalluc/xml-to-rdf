@@ -1,1 +1,1 @@
-(Just hosting a [small wiki](wiki) right now.)
+(Just hosting a [small wiki](https://github.com/mccalluc/xml-to-rdf/wiki) right now.)
